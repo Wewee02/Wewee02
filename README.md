@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wewee02
+- 👋 Hi, I’m @Ayman (or Aiman in French)
 - 👀 I’m interested in Challenges
-- 🌱 I’m currently learning Data analysis with python + Alogorithms and Data structure
+- 🌱 I’m currently learning Data analysis with python + Algorithms and Data structure
 - 💞️ I’m looking to collaborate on Data analysis project from a beginner or an Intership
-- 📫 How to reach me [My instagram account]<https://www.instagram.com/nein_user/>.
+- 📫 How to reach me abdohacini13@gmail.com.
 
 <!---
 Wewee02/Wewee02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
